@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>projek kecil</title>
+    </head>
+    <body>
+        <table border="2">
+            <tr>
+                <th rowspan="3">Bulan</th>
+            </tr>
+            <tr>
+                <th colspan="2">Hasil panen</th>
+            </tr>
+            <tr>
+                <td>Padi</td>
+                <td>Kacang</td>
+                
+            </tr>
+            <tr>
+                <td>januari </td>
+            </tr>
+        </table>
+
+    </body>
+</html>
