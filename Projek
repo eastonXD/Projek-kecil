@@ -1,0 +1,15 @@
+profil = "profil dirimu"
+print(profil)
+nama_awal = input('nama awal kamu')
+nama_akhir = input('nama akhirmu apa?')
+favorite_color = input('warna favorit mu apa?')
+umur = input('Lahir tahun berapa?')
+usia = 2022 - int(umur)
+print(usia)
+print(nama_awal + ' [' + nama_akhir + '] suka warna ' + favorite_color + 'yang berusia ' + umur)
+weight_kg = input('Berat (kg):')
+weight_lbs = int(weight_kg) * 2
+print(weight_lbs)
+terakhir = input ('berarti kamu ' + nama_awal + ' [' + nama_akhir + ']' + 'yang berusia' + umur)
+tempat_tg = input(' kamu tinggal di negara mana?')
+print(tempat_tg)
